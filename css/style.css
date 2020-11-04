@@ -34,7 +34,7 @@ h1 {
   border-bottom: 1px solid #fff;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: null) {
   h1 {
     font-size: 1.8rem;
   }
@@ -62,7 +62,7 @@ h2 {
   text-transform: uppercase;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: null) {
   h2 {
     font-size: 1.6rem;
   }
@@ -86,7 +86,7 @@ h2 {
   }
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: null) {
   h3,
   figcaption {
     font-size: 1.5rem;
@@ -124,7 +124,7 @@ p {
   opacity: 0.6;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: null) {
   p {
     font-size: 15px;
   }
@@ -148,7 +148,7 @@ p {
   }
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: null) {
   input,
   textarea {
     font-size: 15px;
@@ -238,6 +238,11 @@ body {
   position: relative;
   padding: 2%;
   margin: 15% auto;
+}
+
+.hero .slide-paragraph,
+.slide .slide-paragraph {
+  max-width: 80%;
 }
 
 .nav-tabs-container {
@@ -498,3 +503,4 @@ textarea {
   border-radius: 25px;
   cursor: pointer;
 }
+/*# sourceMappingURL=style.css.map */
