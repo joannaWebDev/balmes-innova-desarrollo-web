@@ -2,6 +2,7 @@
     "name": "Balmes Innova",
     "short_name": "Balmes Innova",
     "description": "Curso desarrollo web",
+    "start_url": ".",
     "display": "standalone",
     "scope": "/app/",
     "icons": [{
