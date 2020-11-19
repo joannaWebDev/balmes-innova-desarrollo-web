@@ -365,7 +365,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  padding: 1%;
+  padding: 2% 1%;
   border: 2px solid #fff;
   margin: 2% auto;
   text-align: left;

@@ -130,3 +130,7 @@ $('#sort').click(function(){
   container.detach().empty().append(alphabeticallyOrderedDivs);
   $('#alumni').append(container);
 })
+
+for (let index = 0; index < array.length; index++) {
+	const element = array[index];	
+}
