@@ -166,7 +166,6 @@ body {
   from {
     width: 0
   }
-
   to {
     width: 100%
   }
@@ -181,6 +180,7 @@ body {
   margin: 15% auto;
   .slide-paragraph {
     max-width: 80%;
+    text-align: left;
   }
 }
 

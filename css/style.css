@@ -243,6 +243,7 @@ body {
 .hero .slide-paragraph,
 .slide .slide-paragraph {
   max-width: 80%;
+  text-align: left;
 }
 
 .nav-tabs-container {
@@ -365,7 +366,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  padding: 2% 1%;
+  padding: 1%;
   border: 2px solid #fff;
   margin: 2% auto;
   text-align: left;
