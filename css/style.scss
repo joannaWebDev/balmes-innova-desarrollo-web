@@ -306,7 +306,6 @@ body {
 }
 
 @media (max-width: 800px) {
-
   .toggle,
   .container {
     @include flexCenter(column);
@@ -368,4 +367,10 @@ textarea {
   font-weight: bold;
   border-radius: 25px;
   cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+  #contact form {
+    width: 80vw;
+  }
 }
