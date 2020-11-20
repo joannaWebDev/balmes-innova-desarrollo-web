@@ -374,6 +374,10 @@ body {
           box-shadow: 3px 8px #fff;
 }
 
+.toggle :nth-child(odd) {
+  margin-top: 5%;
+}
+
 .sort-button {
   margin-top: 5%;
   margin-right: 50%;

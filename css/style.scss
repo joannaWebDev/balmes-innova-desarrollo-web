@@ -254,6 +254,9 @@ body {
     text-align: left;
     box-shadow: 3px 8px $text-color;
   }
+  :nth-child(odd) {
+    margin-top:5%;
+  }
 }
 
 .sort-button {
