@@ -2,9 +2,7 @@
     "name": "Balmes Innova Curso Desarrollo web",
     "short_name": "Balmes Innova",
     "description": "Curso desarrollo web",
-    "start_url": "/",
     "display": "standalone",
-    "scope": "/app/",
     "icons": [{
         "src": "favicon-dojo-girl-v03-16.png",
         "sizes": "16x16",
