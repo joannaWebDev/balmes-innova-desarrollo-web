@@ -178,7 +178,7 @@ body {
   position: relative;
   padding: 2%;
   margin: 15% auto;
-  
+
   .slide-paragraph {
     max-width: 80%;
     text-align: left;
@@ -254,10 +254,8 @@ body {
     margin: 2% auto;
     text-align: left;
     box-shadow: 3px 8px $text-color;
-  }
-  :nth-child(odd) {
-    margin-top:5%;
-  }
+  } 
+  
 }
 
 .sort-button {
